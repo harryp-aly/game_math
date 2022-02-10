@@ -1,0 +1,14 @@
+body
+{
+	background: rebeccapurple;
+}
+
+	.login_div1 , .login_div2
+	{
+		background: silver;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
+    
+
